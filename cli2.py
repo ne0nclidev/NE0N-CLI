@@ -1,3 +1,5 @@
+def main():
+    
 #!/usr/bin/env python3
 """
 mini_hack_cli.py
