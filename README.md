@@ -1,11 +1,27 @@
-Probally not much to add here, but NE0N is a command line interface (CLI) based in terminal with commands you can use.
+# NEON-CLI
 
-<img width="567" height="70" src="https://github.com/user-attachments/assets/9503e3db-5a88-4a6a-9db8-cbf6a265c2f9" />
+A pseudo-hacking terminal CLI with colored output and fun commands.
 
-Available list of commands in program by typing "help"
+## Installation
 
+```sh
+pip install .
+```
 
+or for development:
 
-Preview:
+```sh
+pip install -e .
+```
 
-<img width="594" height="207" src="https://github.com/user-attachments/assets/dc8411f9-db81-4d81-a8b3-f118810e8522" />
+## Usage
+
+```sh
+neon-cli
+```
+
+## Features
+
+- Fake IP scanning animation (`ipscan`)
+- Data cracking animation (`datacracker`)
+- Other fun terminal commands
